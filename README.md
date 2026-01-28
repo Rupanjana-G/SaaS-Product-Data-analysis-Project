@@ -28,10 +28,10 @@ Type: Synthetic dataset (privacy-safe)
 Description:
 The dataset contains user-level usage and retention information for a B2B SaaS product.
 
-⚠️ Note: The original dataset does not include pricing or plan tiers. These were simulated realistically during feature engineering to enable pricing analysis.
+ Note: The original dataset does not include pricing or plan tiers. These were simulated realistically during feature engineering to enable pricing analysis.
 
 ⚙️ Tools & Technologies
-🐍 Python
+Python
 
 pandas
 
